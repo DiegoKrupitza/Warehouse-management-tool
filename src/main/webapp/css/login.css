@@ -1,0 +1,27 @@
+.login-button {
+    width: 75%;
+    margin-top: 20px;
+
+
+
+    background: #77554A; /* Old browsers */
+    background: -moz-linear-gradient(top,  #77554A 0%, #5b4039 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #77554A 0%,#5b4039 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #77554A 0%,#5b4039 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#77554A', endColorstr='#5b4039',GradientType=0 ); /* IE6-9 */
+
+    transition: 0.25s all ease;
+    -webkit-transition: 0.25s all ease;
+    -moz-transition: 0.25s all ease;
+    -o-transition: 0.25s all ease;
+
+}
+
+.login-button:hover {
+    background: #563b34; /* Old browsers */
+    background: -moz-linear-gradient(top,  #5b4039 0%, #5b4039 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #5b4039 0%,#5b4039 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #5b4039 0%,#5b4039 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b4039', endColorstr='#5b4039',GradientType=0 ); /* IE6-9 */
+
+}
